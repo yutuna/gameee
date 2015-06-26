@@ -1,0 +1,116 @@
+body{
+	background: #DD0109;
+}
+.form-header{
+	width: 100%;
+}
+.form-header img{
+	width: 100%;
+}
+.form{
+	color: #fff;
+	line-height: 40px;
+	width: 90%;
+	margin: 0 auto;
+}
+.form label{
+	float: left;
+	display: block;
+}
+.form input{
+	display: block;
+	float: left;
+	border:0px;
+	border-bottom: 1px solid #fff;
+	line-height: 35px;
+	background: none;
+	color: #fff;
+}
+.form input.longtext{
+	width: 30%;
+}
+.form input.shorttext{
+	width: 8%;
+}
+.detail{
+	color: #FFC662;
+	width: 90%;
+	margin: 0 auto;
+}
+.detail h3{
+	background: #FFC662;
+	color: #DD0109;
+	line-height: 22px;
+	font-size: 14px;
+	border-radius: 40px;
+	margin-top: 10px;
+	width: 130px;
+	text-align: center;
+	margin-bottom: 5px;
+}
+.de-text{
+	line-height: 25px;
+}
+.detail h4{
+	color: #DD0109;
+	border-radius: 40px;
+	float: left;
+	margin-right: 10px;
+	line-height: 25px;
+	width: 25px;
+	background: #FFC662;
+	text-align: center;
+}
+.hdgz{
+	line-height: 25px;
+}
+.gz{
+	float: left;
+	width: 85%;
+}
+.sub-btn{
+	text-align: center;
+	display: block;
+	width: 150px;
+	border-radius: 5px;
+	background: url('../images/btn.gif') repeat-x;
+	line-height: 40px;
+	color: #FFC662;
+	font-size: 16px;
+	background-size: 100% 100%;
+	margin: 30px auto;
+	border:1px solid #fff;
+	box-shadow: 1px 1px 0 #000;
+}
+#ready{
+	width: 100%;
+	height: 100%;
+	position: relative;
+}
+.header2{
+	position: absolute;
+	top: 10%;
+	width: 100%;
+}
+.header2 img{
+	width: 100%;
+}
+.start-btn{
+	display: block;
+	width: 100%;
+}
+.start-btn img{
+	width: 100%;
+}
+.bot2{
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+}
+.bot2 img{
+	width: 100%;
+}
+#gamelayer{
+	display: none;
+}
